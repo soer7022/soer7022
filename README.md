@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Søren, a software engineer at The LEGO® Group
+I'm Søren, a software engineer at The LEGO Group
 
 To learn more about me, please check out my [LinkedIn](https://www.linkedin.com/in/søreneriksen/)
 
